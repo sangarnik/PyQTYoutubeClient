@@ -1,0 +1,5 @@
+PyQt5
+mpv
+configparser
+glom
+requests
